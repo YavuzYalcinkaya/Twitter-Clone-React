@@ -1,3 +1,8 @@
+The basic Twitter Clone app wit ReactJS and TailwindCSS
+
+Live Demo: https://twitter-clone-ry.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
